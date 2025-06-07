@@ -1,0 +1,9 @@
+# Ignore Unity meta files and temporary data
+*.meta
+
+# Ignore temporary files
+*.tmp
+
+# Ignore zipped archives
+*.zip
+
